@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+        "Artix",
+        "Basys",
+        "demux",
+        "Digilent",
+        "endmodule",
+        "fsdb",
+        "hexdump",
+        "ifndef",
+        "IOSTANDARD",
+        "localparam",
+        "LVCMOS",
+        "mabi",
+        "nand",
+        "negedge",
+        "nettype",
+        "nostartfiles",
+        "nostdlib",
+        "opensession",
+        "posedge",
+        "rdata",
+        "readmemh",
+        "riscv",
+        "Testbench",
+        "Verilog",
+        "Vitis",
+        "Vivado",
+        "webtalk",
+        "xinstall",
+        "xmsgs"
+    ]
+}
